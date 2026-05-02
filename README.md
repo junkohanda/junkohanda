@@ -20,7 +20,7 @@
 | プロジェクト | 概要 | 技術 |
 |------------|------|------|
 | [看護師サポートアプリ v2](https://github.com/junkohanda/nurse-support-app-v2) | 疲れた看護師が複数アプリを使い分けなくて済む統合アプリ。設計担当、実装はAI活用 | Supabase・AI活用開発 |
-| 看護師意見集約アプリ | 現場スタッフの意見をAIで構造化・集約するワークフロー | Dify・GPT-4 |
+| [看護師意見集約アプリ](https://github.com/junkohanda/nurse-opinion-aggregator) | 現場スタッフの意見をAIで構造化・集約するワークフロー | Dify・GPT-4 |
 | 従業員離職予測モデル | 人事データから離職リスクを予測するモデル構築 | Python・ロジスティック回帰 |
 | [糖尿病予測モデル](https://github.com/junkohanda/diabetes-risk-model) | Kaggleデータ97,000件を使った分類モデル | Python・機械学習 |
 
